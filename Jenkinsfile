@@ -13,8 +13,8 @@ pipeline {
     agent any
 	
        tools{
-        maven "maven-linux-slave"
-        jdk "linux-jdk"
+        maven "Maven-aws"
+        jdk "Jdk-Aws"
     }  
 	
 	
